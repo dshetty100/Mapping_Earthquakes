@@ -13,11 +13,12 @@
 ## Results
 The results of the analysis was deployed on a webpage using html and javascript. The interactive webpage can be found here: https://dshetty100.github.io/Plotly_Bellybutton_Biodiversity/
 
-The display below shows the tectonuc plate data.
+The display below shows the map of earthquakes of varying amgnitude around the world in the past 7 days along with tectonuc plate.
+The size and the color of the circle indicate the magnitude and the depth of the earthquake, respectively. The orange lines indicate the tectonic plates.
 
 ![Figure1](/Images/Fig1.png)
 
-The display below shows the major earthquake data
+The display below shows the map of major earthquakes with magnitude greater than 4.5 around thw world in the past 7 days.
 
 ![Figure2](/Images/Fig2.png)
 
