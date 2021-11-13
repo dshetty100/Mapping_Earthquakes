@@ -15,12 +15,12 @@ The results of the analysis was deployed on a webpage using html and javascript.
 
 The display below shows the tectonuc plate data.
 
-![Figure1](/images/bellybutton_dashboard.png)
+![Figure1](/Images/bellybutton_dashboard.png)
 
 The display below shows the major earthquake data
 
-![Figure2](/images/bellybutton_dashboard.png)
+![Figure2](/Images/bellybutton_dashboard.png)
 
 The display below shows a third map style (Dark) added to the above map.
 
-![Figure3](/images/bellybutton_dashboard.png)
+![Figure3](/Images/bellybutton_dashboard.png)
