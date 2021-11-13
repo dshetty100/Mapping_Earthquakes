@@ -13,7 +13,14 @@
 ## Results
 The results of the analysis was deployed on a webpage using html and javascript. The interactive webpage can be found here: https://dshetty100.github.io/Plotly_Bellybutton_Biodiversity/
 
-The display below shows the webpage where users can explore the dataset with the help of interactive charts on the webpage.
+The display below shows the tectonuc plate data.
 
 ![Figure1](/images/bellybutton_dashboard.png)
 
+The display below shows the major earthquake data
+
+![Figure2](/images/bellybutton_dashboard.png)
+
+The display below shows a third map style (Dark) added to the above map.
+
+![Figure3](/images/bellybutton_dashboard.png)
