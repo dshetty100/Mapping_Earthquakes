@@ -8,3 +8,12 @@
 - In this project we use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the 
   earthquakes from the GeoJSON data. We then use the Leaflet library to plot the data on a Mapbox map through an 
   API request and create interactivity for the earthquake data.
+
+
+## Results
+The results of the analysis was deployed on a webpage using html and javascript. The interactive webpage can be found here: https://dshetty100.github.io/Plotly_Bellybutton_Biodiversity/
+
+The display below shows the webpage where users can explore the dataset with the help of interactive charts on the webpage.
+
+![Figure1](/images/bellybutton_dashboard.png)
+
