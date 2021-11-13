@@ -15,7 +15,7 @@
 ### 1. Satellite map of earthquakes around the world in the past 7 days
 
 The display below shows the map of earthquakes of varying magnitude around the world in the past 7 days along with the tectonic plate.
-The color and the size of the circles indicate the magnitude and the depth of the earthquake, respectively. The orange lines indicate the tectonic plates.
+The color and the size of the circles indicate the magnitude and the depth of the earthquake, respectively. The legend in the bottom right side of the map corresponds to the earthquakes magnitude. The orange lines indicate the tectonic plates.
 The earthquake GeoJSON data was taken from, https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson and the tectonic plate GeoJSON data was taken from, https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
 ![Figure1](/Images/Fig1.png)
