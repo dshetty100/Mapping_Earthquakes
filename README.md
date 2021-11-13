@@ -16,10 +16,17 @@ The results of the analysis was deployed on a webpage using html and javascript.
 The display below shows the map of earthquakes of varying amgnitude around the world in the past 7 days along with tectonuc plate.
 The color and the size of the circles indicate the magnitude and the depth of the earthquake, respectively. The orange lines indicate the tectonic plates.
 
+The earthquake GeoJSON data was taken from:
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+
+The tectonic plate GeoJSON data was taken from :
+https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 ![Figure1](/Images/Fig1.png)
 
 The display below shows the map of major earthquakes with magnitude greater than 4.5 around thw world in the past 7 days.
 
+The major earthquake GeoJSON data was taken from : 
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 ![Figure2](/Images/Fig2.png)
 
 The display below shows a third map style (Dark) added to the above map.
